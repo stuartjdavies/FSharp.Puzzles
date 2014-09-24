@@ -49,9 +49,9 @@
   </Choose>
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
-    <Compile Include="Puzzle1.fs" />
-    <Compile Include="Puzzle2.fs" />
-    <Compile Include="Puzzle3.fs" />
+    <Compile Include="Puzzle1Tests.fs" />
+    <Compile Include="Puzzle2Tests.fs" />
+    <Compile Include="Puzzle3Tests.fs" />
     <None Include="packages.config" />
     <None Include="app.config" />
   </ItemGroup>
