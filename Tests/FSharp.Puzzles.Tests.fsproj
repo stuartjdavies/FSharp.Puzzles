@@ -52,6 +52,7 @@
     <Compile Include="Puzzle1Tests.fs" />
     <Compile Include="Puzzle2Tests.fs" />
     <Compile Include="Puzzle3Tests.fs" />
+    <Compile Include="SmallPuzzlesTests.fs" />
     <None Include="packages.config" />
     <None Include="app.config" />
   </ItemGroup>
