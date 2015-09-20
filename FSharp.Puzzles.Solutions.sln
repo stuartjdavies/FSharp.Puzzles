@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Puzzles.Solutions", "Solution\FSharp.Puzzles.Solutions.fsproj", "{7431FB7F-2ECB-4A98-9752-2107977B5754}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Puzzles.Tests", "Tests\FSharp.Puzzles.Tests.fsproj", "{C3C51C17-556C-4052-86B1-CCBEE2DEDC77}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Puzzles.Tests", "FSharp.Puzzles.Tests\FSharp.Puzzles.Tests.fsproj", "{C67C0A68-F29B-4EC0-8F86-A4F414946CDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +17,10 @@ Global
 		{7431FB7F-2ECB-4A98-9752-2107977B5754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7431FB7F-2ECB-4A98-9752-2107977B5754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7431FB7F-2ECB-4A98-9752-2107977B5754}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3C51C17-556C-4052-86B1-CCBEE2DEDC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3C51C17-556C-4052-86B1-CCBEE2DEDC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3C51C17-556C-4052-86B1-CCBEE2DEDC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3C51C17-556C-4052-86B1-CCBEE2DEDC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67C0A68-F29B-4EC0-8F86-A4F414946CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67C0A68-F29B-4EC0-8F86-A4F414946CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67C0A68-F29B-4EC0-8F86-A4F414946CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67C0A68-F29B-4EC0-8F86-A4F414946CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

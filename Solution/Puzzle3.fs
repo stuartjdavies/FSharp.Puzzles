@@ -4,7 +4,7 @@ open System
 
 module Puzzle3 =
     let private toList(s : string) = s.ToCharArray() |> Array.toList          
-    let ReverseWordsInString(str) =       
+    let reverseWordsInString(str) =       
         let rec aux(acc, word, cs) =
             match (cs) with
             | [] -> List.rev(word) @ acc                                       
