@@ -1,6 +1,7 @@
 ﻿module FSharp.Puzzles.Tests.``Puzzle 2: Determine triangle type from the lengths of the sides``
 
 open System
+open FSharp.Puzzles.Solutions.Puzzle2
 open FSharp.Puzzles.Solutions
 open FsUnit
 open NUnit.Framework
