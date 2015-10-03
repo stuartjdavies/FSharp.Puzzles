@@ -17,4 +17,4 @@ let nUnitRunner =
 let private nUnitConfig = { Config.Default with Runner = nUnitRunner }
 
 let fsCheck name testable =
-    FsCheck.Check.One (name, nUnitConfig, testable)
+    FsCheck.Check.One (name, nUnitConfig, testable) 
