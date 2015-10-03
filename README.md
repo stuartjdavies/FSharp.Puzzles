@@ -20,9 +20,9 @@ Write a function that receives three integer inputs for the lengths of the sides
 
 ### Triangles
 
-Equilateral Three equal sides
-Isosceles Two equal sides
-Scalene No equal sides
+1. Equilateral - Three equal sides
+2. Isosceles - Two equal sides
+3. Scalene - No equal sides
 
 ## Puzzle Three – Reverse Words
 
