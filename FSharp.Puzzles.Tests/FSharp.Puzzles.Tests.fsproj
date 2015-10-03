@@ -84,6 +84,7 @@
     <Compile Include="Puzzle2Tests.fs" />
     <Compile Include="Puzzle3Tests.fs" />
     <Compile Include="Puzzle4Tests.fs" />
+    <Compile Include="Puzzle5Test.fs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Solution\FSharp.Puzzles.Solutions.fsproj">

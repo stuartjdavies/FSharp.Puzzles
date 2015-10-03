@@ -46,6 +46,7 @@
     <Compile Include="Puzzle2.fs" />
     <Compile Include="Puzzle3.fs" />
     <Compile Include="Puzzle4.fs" />
+    <Compile Include="Puzzle5.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
