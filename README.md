@@ -1,4 +1,5 @@
-# FSharp.Puzzles
+# Overview
+This github repository contains a list of puzzles solved in FSharp
 
 ## Puzzle 1 – Linked list
 
