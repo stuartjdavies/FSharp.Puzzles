@@ -1,0 +1,14 @@
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\bin\Debug\Readify.Puzzles.XML
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\bin\Debug\Readify.Puzzles.dll
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\bin\Debug\Readify.Puzzles.pdb
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\bin\Debug\FSharp.Core.dll
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\bin\Debug\FSharp.Core.xml
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\obj\Debug\Readify.Puzzles.dll
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\Solution\obj\Debug\Readify.Puzzles.pdb
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\Readify.Puzzles.XML
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\Readify.Puzzles.dll
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\Readify.Puzzles.pdb
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\FSharp.Core.dll
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\FSharp.Core.xml
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\obj\Debug\Readify.Puzzles.dll
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\obj\Debug\Readify.Puzzles.pdb
