@@ -87,7 +87,7 @@
     <Compile Include="Puzzle5Test.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Solution\FSharp.Puzzles.Solutions.fsproj">
+    <ProjectReference Include="..\FSharp.Puzzles.Solutions\FSharp.Puzzles.Solutions.fsproj">
       <Name>FSharp.Puzzles.Solutions</Name>
       <Project>{7431fb7f-2ecb-4a98-9752-2107977b5754}</Project>
       <Private>True</Private>
