@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1018]C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll</TopNode>
-  <SelectedNode>[0-1018]C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll</SelectedNode>
+  <TopNode>[0-1026]C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll</TopNode>
+  <SelectedNode>[0-1029]FSharp.Puzzles.Tests</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1018]C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll" Expanded="true" />
-    <Node UniqueName="[0-1019]FSharp" Expanded="true" />
-    <Node UniqueName="[0-1020]FSharp.Puzzles" Expanded="true" />
-    <Node UniqueName="[0-1021]FSharp.Puzzles.Tests" Expanded="true" />
-    <Node UniqueName="[0-1016]FSharp.Puzzles.Tests.Puzzle 1: Take the Nth Element from the tail" Expanded="true" />
-    <Node UniqueName="[0-1007]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides" Expanded="true" />
-    <Node UniqueName="[0-1008]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Equilateral is returned when their are three equal sides" Expanded="true" />
-    <Node UniqueName="[0-1011]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side" Expanded="true" />
-    <Node UniqueName="[0-1014]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Scalene is returned when there are no equal sides" Expanded="true" />
-    <Node UniqueName="[0-1000]FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string" Expanded="true" />
-    <Node UniqueName="[0-1001]FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly" Expanded="true" />
+    <Node UniqueName="[0-1026]C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1027]FSharp" Expanded="true" />
+    <Node UniqueName="[0-1028]FSharp.Puzzles" Expanded="true" />
+    <Node UniqueName="[0-1029]FSharp.Puzzles.Tests" Expanded="true" />
+    <Node UniqueName="[0-1024]FSharp.Puzzles.Tests.Puzzle 1: Take the Nth Element from the tail" Expanded="true" />
+    <Node UniqueName="[0-1015]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides" Expanded="true" />
+    <Node UniqueName="[0-1016]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Equilateral is returned when their are three equal sides" Expanded="true" />
+    <Node UniqueName="[0-1019]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side" Expanded="true" />
+    <Node UniqueName="[0-1022]FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Scalene is returned when there are no equal sides" Expanded="true" />
+    <Node UniqueName="[0-1008]FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string" Expanded="true" />
+    <Node UniqueName="[0-1009]FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly" Expanded="true" />
+    <Node UniqueName="[0-1003]FSharp.Puzzles.Tests.Puzzle4: Is it Possible" Expanded="true" />
+    <Node UniqueName="[0-1004]FSharp.Puzzles.Tests.Puzzle4: Is it Possible.Puzzle 4: Verify sample input vs sample output" Expanded="true" />
+    <Node UniqueName="[0-1000]FSharp.Puzzles.Tests.Puzzle5: Closest Numbers" Expanded="true" />
+    <Node UniqueName="[0-1001]FSharp.Puzzles.Tests.Puzzle5: Closest Numbers.Puzzle 5: Verify sample input vs sample output" Expanded="true" />
   </Nodes>
 </VisualState>

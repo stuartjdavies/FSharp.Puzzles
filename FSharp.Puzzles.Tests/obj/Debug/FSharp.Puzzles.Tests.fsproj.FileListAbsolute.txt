@@ -16,3 +16,4 @@ C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\n
 C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\Unquote.xml
 C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\obj\Debug\FSharp.Puzzles.Tests.dll
 C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\obj\Debug\FSharp.Puzzles.Tests.pdb
+C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\obj\Debug\FSharp.Puzzles.Tests.fsprojResolveAssemblyReference.cache
