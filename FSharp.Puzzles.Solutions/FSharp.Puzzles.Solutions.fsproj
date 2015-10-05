@@ -47,6 +47,9 @@
     <Compile Include="Puzzle3.fs" />
     <Compile Include="Puzzle4.fs" />
     <Compile Include="Puzzle5.fs" />
+    <Compile Include="Puzzle6.fs" />
+    <Compile Include="Puzzle7Solution1.fs" />
+    <Compile Include="Puzzle7Solution2.fs" />
     <Compile Include="RosalindPuzzles.fs" />
   </ItemGroup>
   <PropertyGroup>
