@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll" total="15" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-04" time="22:30:12">
+<test-results name="C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll" total="15" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-04" time="22:30:53">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="STUART-HP" user="stuart" user-domain="STUART-HP" />
   <culture-info current-culture="en-AU" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll" executed="True" result="Success" success="True" time="0.633" asserts="0">
+  <test-suite type="Assembly" name="C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Tests\bin\Debug\FSharp.Puzzles.Tests.dll" executed="True" result="Success" success="True" time="0.152" asserts="0">
     <results>
-      <test-suite type="Namespace" name="FSharp" executed="True" result="Success" success="True" time="0.605" asserts="0">
+      <test-suite type="Namespace" name="FSharp" executed="True" result="Success" success="True" time="0.152" asserts="0">
         <results>
-          <test-suite type="Namespace" name="Puzzles" executed="True" result="Success" success="True" time="0.604" asserts="0">
+          <test-suite type="Namespace" name="Puzzles" executed="True" result="Success" success="True" time="0.151" asserts="0">
             <results>
-              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.604" asserts="0">
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.150" asserts="0">
                 <results>
-                  <test-suite type="TestFixture" name="Puzzle 1: Take the Nth Element from the tail" executed="True" result="Success" success="True" time="0.206" asserts="0">
+                  <test-suite type="TestFixture" name="Puzzle 1: Take the Nth Element from the tail" executed="True" result="Success" success="True" time="0.003" asserts="0">
                     <results>
-                      <test-case name="FSharp.Puzzles.Tests.Puzzle 1: Take the Nth Element from the tail.Puzzle 1: Verify example puzzle input equals example puzzle output" executed="True" result="Success" success="True" time="0.176" asserts="8" />
+                      <test-case name="FSharp.Puzzles.Tests.Puzzle 1: Take the Nth Element from the tail.Puzzle 1: Verify example puzzle input equals example puzzle output" executed="True" result="Success" success="True" time="0.000" asserts="8" />
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="Puzzle 2: Determine triangle type from the lengths of the sides" executed="True" result="Success" success="True" time="0.070" asserts="0">
+                  <test-suite type="TestFixture" name="Puzzle 2: Determine triangle type from the lengths of the sides" executed="True" result="Success" success="True" time="0.038" asserts="0">
                     <results>
-                      <test-suite type="ParameterizedTest" name="Puzzle 2: Verify Equilateral is returned when their are three equal sides" executed="True" result="Success" success="True" time="0.025" asserts="0">
+                      <test-suite type="ParameterizedTest" name="Puzzle 2: Verify Equilateral is returned when their are three equal sides" executed="True" result="Success" success="True" time="0.009" asserts="0">
                         <results>
-                          <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Equilateral is returned when their are three equal sides&lt;Single&gt;(1.0f,1.0f,1.0f)" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+                          <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Equilateral is returned when their are three equal sides&lt;Single&gt;(1.0f,1.0f,1.0f)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Equilateral is returned when their are three equal sides&lt;Single&gt;(2.2f,2.2f,2.2f)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                         </results>
                       </test-suite>
-                      <test-suite type="ParameterizedTest" name="Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side" executed="True" result="Success" success="True" time="0.012" asserts="0">
+                      <test-suite type="ParameterizedTest" name="Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side" executed="True" result="Success" success="True" time="0.008" asserts="0">
                         <results>
-                          <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side&lt;Single&gt;(1.0f,2.0f,1.0f)" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                          <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side&lt;Single&gt;(1.0f,2.0f,1.0f)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify isosceles is returned when there are two equal sides and one unequal side&lt;Single&gt;(2.0f,1.0f,1.0f)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                         </results>
                       </test-suite>
-                      <test-suite type="ParameterizedTest" name="Puzzle 2: Verify Scalene is returned when there are no equal sides" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                      <test-suite type="ParameterizedTest" name="Puzzle 2: Verify Scalene is returned when there are no equal sides" executed="True" result="Success" success="True" time="0.002" asserts="0">
                         <results>
-                          <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Scalene is returned when there are no equal sides&lt;Single&gt;(5.0f,4.0f,3.0f)" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                          <test-case name="FSharp.Puzzles.Tests.Puzzle 2: Determine triangle type from the lengths of the sides.Puzzle 2: Verify Scalene is returned when there are no equal sides&lt;Single&gt;(5.0f,4.0f,3.0f)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                         </results>
                       </test-suite>
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="Puzzle 3: Reverse the words in a string" executed="True" result="Success" success="True" time="0.058" asserts="0">
+                  <test-suite type="TestFixture" name="Puzzle 3: Reverse the words in a string" executed="True" result="Success" success="True" time="0.033" asserts="0">
                     <results>
-                      <test-suite type="ParameterizedTest" name="Puzzle 3: Given a sentance verify that the words are reversed correctly" executed="True" result="Success" success="True" time="0.057" asserts="0">
+                      <test-suite type="ParameterizedTest" name="Puzzle 3: Given a sentance verify that the words are reversed correctly" executed="True" result="Success" success="True" time="0.032" asserts="0">
                         <results>
-                          <test-case name="FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly&lt;String&gt;(&quot;Hello I am here&quot;,&quot;olleH I ma ereh&quot;)" executed="True" result="Success" success="True" time="0.028" asserts="1" />
+                          <test-case name="FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly&lt;String&gt;(&quot;Hello I am here&quot;,&quot;olleH I ma ereh&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly&lt;String&gt;(&quot;Cat and dog&quot;,&quot;taC dna god&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly&lt;String&gt;(&quot;I am here&quot;,&quot;I ma ereh&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle 3: Reverse the words in a string.Puzzle 3: Given a sentance verify that the words are reversed correctly&lt;String&gt;(&quot;There is a  apple here  &quot;,&quot;erehT si a  elppa ereh  &quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
@@ -50,22 +50,22 @@
                       </test-suite>
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="Puzzle4: Is it Possible" executed="True" result="Success" success="True" time="0.025" asserts="0">
+                  <test-suite type="TestFixture" name="Puzzle4: Is it Possible" executed="True" result="Success" success="True" time="0.019" asserts="0">
                     <results>
-                      <test-suite type="ParameterizedTest" name="Puzzle 4: Verify sample input vs sample output" executed="True" result="Success" success="True" time="0.024" asserts="0">
+                      <test-suite type="ParameterizedTest" name="Puzzle 4: Verify sample input vs sample output" executed="True" result="Success" success="True" time="0.017" asserts="0">
                         <results>
-                          <test-case name="FSharp.Puzzles.Tests.Puzzle4: Is it Possible.Puzzle 4: Verify sample input vs sample output&lt;Boolean&gt;(1,4,5,9,True)" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+                          <test-case name="FSharp.Puzzles.Tests.Puzzle4: Is it Possible.Puzzle 4: Verify sample input vs sample output&lt;Boolean&gt;(1,4,5,9,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle4: Is it Possible.Puzzle 4: Verify sample input vs sample output&lt;Boolean&gt;(2,2,6,8,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                           <test-case name="FSharp.Puzzles.Tests.Puzzle4: Is it Possible.Puzzle 4: Verify sample input vs sample output&lt;Boolean&gt;(2,2,5,9,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                         </results>
                       </test-suite>
                     </results>
                   </test-suite>
-                  <test-suite type="TestFixture" name="Puzzle5: Closest Numbers" executed="True" result="Success" success="True" time="0.161" asserts="0">
+                  <test-suite type="TestFixture" name="Puzzle5: Closest Numbers" executed="True" result="Success" success="True" time="0.003" asserts="0">
                     <results>
-                      <test-suite type="ParameterizedTest" name="Puzzle 5: Verify sample input vs sample output" executed="True" result="Success" success="True" time="0.160" asserts="0">
+                      <test-suite type="ParameterizedTest" name="Puzzle 5: Verify sample input vs sample output" executed="True" result="Success" success="True" time="0.002" asserts="0">
                         <results>
-                          <test-case name="FSharp.Puzzles.Tests.Puzzle5: Closest Numbers.Puzzle 5: Verify sample input vs sample output(System.Int32[],System.Int32[],50)" executed="True" result="Success" success="True" time="0.158" asserts="1" />
+                          <test-case name="FSharp.Puzzles.Tests.Puzzle5: Closest Numbers.Puzzle 5: Verify sample input vs sample output(System.Int32[],System.Int32[],50)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                         </results>
                       </test-suite>
                     </results>
