@@ -6,7 +6,7 @@ open FsUnit
 open NUnit.Framework
 
 [<Test>]
-let ``Puzzle 1: Verify example puzzle input equals example puzzle output``() = 
+let ``Verify example sample input equals sample expected output``() = 
         let input_dataset = [2;3;4;5;6;7;8;9;10;11]
                
         [ input_dataset, 1, Some(11)

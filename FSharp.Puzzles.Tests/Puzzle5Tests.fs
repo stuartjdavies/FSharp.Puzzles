@@ -1,4 +1,4 @@
-﻿module FSharp.Puzzles.Tests.``Puzzle5: Closest Numbers``
+﻿module FSharp.Puzzles.Tests.``Puzzle 5: Closest Numbers``
 
 open System
 open FSharp.Puzzles.Solutions
@@ -16,7 +16,7 @@ let splitIntoPairs (xs : int array) =
          pairs                                   
 
 [<TestCase([|-20; -3916237; -357920; -3620601; 7374819; -7330761; 30; 6246457; -6461594; 266854|], [|-20;30;|], 50)>]
-let ``Puzzle 5: Verify sample input vs sample output``(input : int array, rawExpected : int array, diff : int) =                                                                                     
+let ``Verify sample input vs sample output``(input : int array, rawExpected : int array, diff : int) =                                                                                     
           input |> Seq.toList |> Puzzle5.getPairsWithSmallestDiff |> should equal ((splitIntoPairs rawExpected), diff)
 
 

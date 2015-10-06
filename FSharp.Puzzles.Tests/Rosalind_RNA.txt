@@ -1,0 +1,5 @@
+Feature: Transcribing DNA into RNA 
+
+Scenario 1: Verify expected result from sample data
+	Given a DNA string "GATGGAACTTGACTACGTAAATT"
+	Then the transcribed RNA string should be GAUGGAACUUGACUACGUAAAUU

@@ -1,4 +1,4 @@
-﻿module FSharp.Puzzles.Tests.``Puzzle6: Robot``
+﻿module FSharp.Puzzles.Tests.``Puzzle 6: Robot``
 
 open FsUnit
 open FsCheck
@@ -11,9 +11,9 @@ open Microsoft.FSharp.Reflection
 
 let SPEC_DIMENSION = (5,5)
 
-[<TestCase("..\..\TestCaseA.txt")>]
-[<TestCase("..\..\TestCaseB.txt")>]
-[<TestCase("..\..\TestCaseC.txt")>]
+[<TestCase("..\..\..\TestData\Puzzle6_TestCaseA.txt")>]
+[<TestCase("..\..\..\TestData\Puzzle6_TestCaseB.txt")>]
+[<TestCase("..\..\..\TestData\Puzzle6_TestCaseC.txt")>]
 let ``Verify the test cases given in the specification``(fileName) =         
         let testData = File.ReadAllLines(fileName)
         let cmds = testData.[0 .. testData.Length - 2 ] 
@@ -31,8 +31,8 @@ let ``When REPORT is called after two invalid actions the result should be None`
         [| "sdfsdf"; "sdfsdf"; "REPORT" |] |> runCommands SPEC_DIMENSION |> should equal None
 
 let ``After placing the robot in two valid and a invalid coord the result is the last valid coordinates ``() =
-         [| "PLACE 1,2,NORTH"; "PLACE 5,4,EAST"; "PLACE 10,10,SOUTH"; "REPORT" |] 
-         |> runCommands SPEC_DIMENSION |> (fun r -> r.Value) |> should equal { ToyRobot.Position= { X=5; Y=4 }; Facing=South }
+        [| "PLACE 1,2,NORTH"; "PLACE 5,4,EAST"; "PLACE 10,10,SOUTH"; "REPORT" |] 
+        |> runCommands SPEC_DIMENSION |> (fun r -> r.Value) |> should equal { ToyRobot.Position= { X=5; Y=4 }; Facing=South }
 
 
 let getUnionCaseName (x:'a) = 

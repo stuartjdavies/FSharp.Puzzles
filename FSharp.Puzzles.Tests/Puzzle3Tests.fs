@@ -10,6 +10,6 @@ open NUnit.Framework
 [<TestCase("I am here", "I ma ereh")>]
 [<TestCase("There is a  apple here  ", "erehT si a  elppa ereh  ")>]
 [<TestCase("", "")>]
-let ``Puzzle 3: Given a sentance verify that the words are reversed correctly``(input, expected) =                           
+let ``Given a sentence verify that the words are reversed correctly``(input, expected) =                           
           input |> Puzzle3.reverseWordsInString |> should equal expected
           

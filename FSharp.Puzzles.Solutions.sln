@@ -12,6 +12,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Puzzles.Solutions", "FSharp.Puzzles.Solutions\FSharp.Puzzles.Solutions.fsproj", "{7431FB7F-2ECB-4A98-9752-2107977B5754}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestData", "TestData", "{35AC7A93-3BE8-42B8-BD5F-C02513230762}"
+	ProjectSection(SolutionItems) = preProject
+		TestData\Puzzle6_TestCaseA.txt = TestData\Puzzle6_TestCaseA.txt
+		TestData\Puzzle6_TestCaseB.txt = TestData\Puzzle6_TestCaseB.txt
+		TestData\Puzzle6_TestCaseC.txt = TestData\Puzzle6_TestCaseC.txt
+		TestData\Puzzle_Rosalind_RNA.txt = TestData\Puzzle_Rosalind_RNA.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -2,5 +2,10 @@
 <doc>
 <assembly><name>FSharp.Puzzles.Tests</name></assembly>
 <members>
+<member name="T:NUnit.TickSpec.FeatureFixture">
+<summary>
+ Inherit from FeatureFixture to define a feature fixture
+</summary>
+</member>
 </members>
 </doc>
