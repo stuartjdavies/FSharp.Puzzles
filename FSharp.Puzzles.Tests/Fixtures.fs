@@ -22,5 +22,5 @@ type FeatureFixture (source:string) =
         let s = File.OpenText(Path.Combine(@"..\..\",source))
         definitions.GenerateScenarios(source,s)
 
-//type Feature () = inherit FeatureFixture("StockFeature.txt")
+type Feature () = inherit FeatureFixture("StockFeature.txt")
 type RosalindRNA () = inherit FeatureFixture("Rosalind_RNA.txt")
