@@ -42,6 +42,7 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Rop.fs" />
     <Compile Include="Puzzle1.fs" />
     <Compile Include="Puzzle2.fs" />
     <Compile Include="Puzzle3.fs" />
@@ -50,6 +51,7 @@
     <Compile Include="Puzzle6.fs" />
     <Compile Include="Puzzle7Solution1.fs" />
     <Compile Include="Puzzle7Solution2.fs" />
+    <Compile Include="Puzzle8.fs" />
     <Compile Include="PuzzlesRosalind.fs" />
   </ItemGroup>
   <PropertyGroup>
