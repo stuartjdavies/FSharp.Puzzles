@@ -1,14 +1,9 @@
 ## Overview
 This github repository contains a list of puzzles solved in FSharp
 
-## Puzzle 1 – Linked list
+Here is a list of solved puzzles
 
-Write a function that would return the 5th element from the tail (or end) of a singly linked list of integers.
-For example, given the list 2 -> 3 -> 4 ->5 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 your function would return 7.
-
-Your code:
-* Should return the 5th element from the tail in a single pass.
-* Should be your own code and should not use any built-in .NET collection components.
+[Puzzle 1 – Linked list] (Puzzle1.md)
 
 ## Puzzle 2 - Triangles
 
