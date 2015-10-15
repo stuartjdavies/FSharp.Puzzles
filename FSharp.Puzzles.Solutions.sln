@@ -7,7 +7,6 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Puzzles.Tests", "FSh
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71EC9AF3-57B1-4010-BD16-EBBE6A8EFDCB}"
 	ProjectSection(SolutionItems) = preProject
-		Puzzle1.md = Puzzle1.md
 		README.md = README.md
 	EndProjectSection
 EndProject
@@ -19,6 +18,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestData", "TestData", "{35
 		TestData\Puzzle6_TestCaseB.txt = TestData\Puzzle6_TestCaseB.txt
 		TestData\Puzzle6_TestCaseC.txt = TestData\Puzzle6_TestCaseC.txt
 		TestData\Puzzle_Rosalind_RNA.txt = TestData\Puzzle_Rosalind_RNA.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{6CFDED44-AE41-4774-80B3-0C4E687CB737}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Puzzle1.md = Docs\Puzzle1.md
+		Docs\Puzzle2.md = Docs\Puzzle2.md
+		Docs\Puzzle3.md = Docs\Puzzle3.md
+		Docs\Puzzle4.md = Docs\Puzzle4.md
+		Docs\Puzzle5.md = Docs\Puzzle5.md
+		Docs\Puzzle6.md = Docs\Puzzle6.md
+		Docs\Puzzle7.md = Docs\Puzzle7.md
+		Docs\Puzzle8.md = Docs\Puzzle8.md
 	EndProjectSection
 EndProject
 Global
