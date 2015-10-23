@@ -12,3 +12,10 @@ C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Deb
 C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\FSharp.Core.xml
 C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\obj\Debug\Readify.Puzzles.dll
 C:\Users\stuart\Documents\GitHub\FSharp.Puzzles\FSharp.Puzzles.Solutions\obj\Debug\Readify.Puzzles.pdb
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\Readify.Puzzles.XML
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\obj\Debug\Readify.Puzzles.dll
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\obj\Debug\Readify.Puzzles.pdb
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\Readify.Puzzles.dll
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\Readify.Puzzles.pdb
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\FSharp.Core.dll
+C:\Users\stuart\Source\Repos\FSharp.Puzzles\FSharp.Puzzles.Solutions\bin\Debug\FSharp.Core.xml

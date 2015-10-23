@@ -200,17 +200,17 @@ let ``Execute the workflow given in the puzzle``() =
                         | Success _ -> g()  
                         | Failure f -> Failure f
 
-        let result = insertFailureIntoDb <&> insertFailureIntoDb        
+        //let result = insertFailureIntoDb <&> insertFailureIntoDb        
 
-      
+        ()
 
         
                            
                 
-        let validEnrolments = StudentEnrol ler.getListOfValidEnrolments config newEnrolments []
-        let log = StudentEnroller.createNewEnrolmentLog config newEnrolments []
-        
-        log |> List.iter(fun (code, message,_,_) -> printfn "Code - %d, Message - %s" code message |> ignore);
-
-        System.Console.ReadLine() |> ignore
+//        let validEnrolments = StudentEnrol ler.getListOfValidEnrolments config newEnrolments []
+//        let log = StudentEnroller.createNewEnrolmentLog config newEnrolments []
+//        
+//        log |> List.iter(fun (code, message,_,_) -> printfn "Code - %d, Message - %s" code message |> ignore);
+//
+//        System.Console.ReadLine() |> ignore
  
