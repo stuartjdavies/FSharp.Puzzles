@@ -17,5 +17,5 @@ let ``Verify example sample input equals sample expected output``() =
           input_dataset,-1, None
           input_dataset, 0, None
           [], 3, None ] 
-        |> List.iter(fun (dataset, index, expected) -> (dataset, index) |> Puzzle1.takeNthElementFromTail |> should equal expected)
+        |> List.iter(fun (dataset, index, expected) -> (dataset, index) ||> Puzzle1.takeNthElementFromTail |> should equal expected)
           
